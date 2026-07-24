@@ -23,6 +23,7 @@ Git • GitHub • Figma
 🌐 Connect with Me
 
 📧 Email: shivam.reactdev@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/shivam-reactdev
 
 🌐 Portfolio: https://shivam-portfolio-ten-phi.vercel.app
