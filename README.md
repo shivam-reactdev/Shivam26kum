@@ -20,8 +20,16 @@ Git • GitHub • Figma
 • Gym Website
 • Portfolio
 
-📫 Contact
-📧 shivam.reactdev@gmail.com# 📊 GitHub Stats:
+🌐 Connect with Me
+
+📧 Email: shivam.reactdev@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/shivam.reactdev
+
+🌐 Portfolio: https://shivam-portfolio-ten-phi.vercel.app
+
+💻 GitHub: https://github.com/Shivam26kum 
+
+📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shivam26kum&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Shivam26kum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivam26kum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
